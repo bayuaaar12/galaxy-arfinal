@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="matahari" size="1.000000 0.952727" />
+    <ImageTarget name="jupiter" size="1.000000 0.561667" />
+    <ImageTarget name="bumi" size="1.000000 0.746154" />
+    <ImageTarget name="planetoren" size="1.000000 0.500000" />
+  </Tracking>
+</QCARConfig>
